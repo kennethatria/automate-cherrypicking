@@ -1,0 +1,361 @@
+2d98d31 Adds Data Verification Tasks and Workflows
+2bd9adc GSE-1615 Quality assurance check for Sayna Press family planning refills
+818f7e1 GSE-1615 Quality assurance check for Sayna Press family planning refills
+67a4c10 GSE-1702: Assessment targets for under 1 and 1-5
+ab45e1b GSE-1666: Error loading contact on Jan UG release
+bac5849 GSE-1491: Targets not loading
+d9c6442 GSE-737: Fixes tasks and targets not populating in Uganda
+227cb25 Merge pull request #190 from SheilaAbby/GSE-1197
+1585cd2 GSE-1197: Adds low touch, updates pregnancy workflow
+d9f64ef Merge pull request #192 from Jeanfaith234/GSE-1596
+084d527 Merge pull request #186 from PatriciaChebet/GSE-1575
+8456fbd GSE-1596 Fix pregnancy registration xml bug
+27e5b60 Merge pull request #184 from SheilaAbby/GSE-1199
+e7fe126 Merge pull request #179 from PatriciaChebet/GSE-1569
+e705655 GSE-1569 Renames Community events workflow as Other Activities
+4c3014c GSE-1575 Updates CHP Visit V2 workflow with low touch protocols
+647197a Merge pull request #181 from PatriciaChebet/GSE-1570
+18a3eae GSE-1199: Adds low touch protocols
+6b011f9 Merge pull request #175 from SheilaAbby/GSE-1198
+c867e5d Adds low touch, covid followup task
+74c2628 Merge pull request #178 from PatriciaChebet/GSE-1540
+18855ea GSE-1540 Updates CHP not visited task to use correct form
+fd6193c Merge pull request #177 from kennethatria/GSE-1257
+1097cef GSE-1570 Attaches the IT support form to each CHP area
+6aeb759 GSE-1257:Rejecting Nill assessment in ICCM
+99e8ceb Merge pull request #176 from kennethatria/GSE-1215
+588151e GSE-1215:Integration of  immunization  into ICCM
+dbb9e97 Merge pull request #166 from EkaiJack/GSE-1374
+b69742d GSE-1374:Updates CHP to VHT member(fp_visit)
+1f0e7d8 Merge pull request #164 from SheilaAbby/GSE-1402
+8ed50f6 Merge pull request #138 from EkaiJack/GSE-1359
+624ecf8 Merge pull request #157 from EkaiJack/GSE-1382
+944b0c3 Merge pull request #154 from EkaiJack/GSE-1380
+0cf927d Merge pull request #153 from EkaiJack/GSE-1379
+8e3dbf5 Merge pull request #149 from EkaiJack/GSE-1373
+efa3aff Merge pull request #148 from EkaiJack/GSE-1372
+8188727 Merge pull request #147 from EkaiJack/GSE-1370
+2cec280 GSE-1402: Updates CHP Name to VHT Member
+b0c36a5 Merge pull request #162 from SheilaAbby/GSE-1405
+096ecd0 Merge pull request #161 from SheilaAbby/GSE-1401
+0a4702a Merge pull request #171 from PatriciaChebet/GSE-1463
+0578762 Merge pull request #173 from PatriciaChebet/GSE-1404
+ecd2a42 GSE-1404 Updates VHT Member not visited workflow naming
+44c3679 Merge pull request #170 from PatriciaChebet/GSE-1466
+acb8e53 Merge pull request #169 from PatriciaChebet/GSE-1462
+aa65723 Merge pull request #159 from Jeanfaith234/GSE-1390
+c35ff6d Merge pull request #151 from Jeanfaith234/GSE-1377
+3120f08 Merge pull request #150 from Jeanfaith234/GSE-1376
+09bef46 Merge pull request #144 from Jeanfaith234/GSE-1368
+b2d0e74 Merge pull request #143 from Jeanfaith234/GSE-1367
+6204582 Merge pull request #145 from Jeanfaith234/GSE-1369
+25c9984 Merge pull request #163 from Jeanfaith234/GSE-1371
+1cb6126 Merge pull request #156 from Jeanfaith234/GSE-1383
+566507a Merge pull request #155 from Jeanfaith234/GSE-1381
+573c505 Merge pull request #152 from Jeanfaith234/GSE-1378
+f1a6d69 Merge pull request #139 from Jeanfaith234/GSE-1361
+a1ee8fe Merge pull request #140 from Jeanfaith234/GSE-1363
+8727f6c GSE-1462 Update CHP naming on muting workflows
+b83be0f Merge pull request #168 from PatriciaChebet/GSE-1461
+d147e07 GSE-1461 Updates Contact cards naming from CHP to VHT member
+5b214d8 Merge pull request #172 from PatriciaChebet/GSE-1400
+661c4bc Merge pull request #146 from EkaiJack/GSE-1366
+024f2e3 GSE-1390: Changing CHP to VHT member in the household unmute form
+beff0bd GSE-1370:Updates CHP to VHT member(delivery_check)
+e8966ac Merge pull request #165 from SheilaAbby/GSE-1403
+f54a90f GSE-1400 Updates CHP naming to VHT Member on CHP Visit V2
+b8fdcdc GSE-1463 Updates naming on Community events workflow
+56d6562 GSE-1466 Updates CHP unmuting workflow naming
+4e79315 GSE-1401: Update CHP Name to VHT Member
+0d81318 GSE-1382:Updates CHP to VHT member(muac_follow_up)
+a0cb693 GSE-1369: Changing CHP to VHT member in the pregnancy referral form
+865bd84 GSE-1371: Changing CHP to VHT member in the CHP visit form
+e4f5d03 GSE-1403: Updates CHP Name to VHT Member
+fdb4e5b GSE-1380:Updates CHP to VHT member(home_visit)
+27b9133 GSE-1405: Update CHPs Name to VHT Members
+3ce6305 GSE-1367: Changing CHP to VHT member in the pregnancy registration form
+3d2abab GSE-1359:Updates CHP to VHT member and Low-touch protocol
+9b46e7d GSE-1379:Updates CHP to VHT member(immunization_ug)
+d931049 GSE-1383: Changing CHP to VHT member in the nutrition assessment form
+700e1a5 GSE-1381: Changing CHP to VHT member in the immunization followup form
+8db5987 GSE-1378: Changing CHP to VHT member in the fp followup prospective form
+0ad9650 GSE-1377: Changing CHP to VHT member in the fp followup refill form
+7462a19 GSE-1376: Changing CHP to VHT member in the fp followup short term form
+eb6f962 GSE-1361: Changing CHP to VHT member in the family survey form
+ff2cf5b GSE-1368: Changing CHP to VHT member in the pregnancy visit form
+843321e GSE-1363: Changing CHP to VHT member in the assessment form
+70926d6 GSE-1373:Updates CHP to VHT member(postnatal_care)
+b4abf90 GSE-1372:Updates CHP to VHT member(covid_follow_up)
+33686e5 GSE-1366:Updates CHP to VHT member(unmute_person)
+23db062 Merge pull request #142 from EkaiJack/GSE-1364
+a18b33a GSE-1364:Updates CHP to VHT member(house_hold mute)
+41d2978 Merge pull request #125 from kennethatria/GSE-1236
+dcb9d5b Merge pull request #130 from kennethatria/GSE-1240
+55950d1 GSE-1240: FP with self-injection update
+716981d Merge pull request #129 from kennethatria/GSE-1256
+0e2e516 Merge pull request #132 from kennethatria/GSE-1254
+fd0e681 Merge pull request #127 from EkaiJack/GSE-1258
+7891742 GSE-1256: Assessment / ICCM  under 5
+b54cf77 GSE-1254: Low touch Delivery check visit bug
+0c54106 Merge pull request #131 from kennethatria/GSE-1242
+cd4d88a Merge pull request #112 from livinggoods/GSE-1100
+ab4e041 Merge pull request #126 from kennethatria/GSE-1237
+e0b7c83 GSE-1242: Low touch newborn visit bug
+625e36b Merge pull request #124 from kennethatria/GSE-1235
+e362e50 GSE-1237:Low touch Delivery note Bug
+52d5d11 GSE-1258:Fixes chp visit not showing bug
+0a0acf4 GSE-1236: Low touch immunization Bug
+c4ed776 GSE-1235:Enabling Low touch Child assessment bug SHA Ug
+21c8c67 Merge pull request #117 from SheilaAbby/GSE-1159
+552ba74 GSE-1159: Restrict CHW Performance cards to Kira
+8d885ae Merge pull request #123 from PatriciaChebet/GSE-1158
+3485d88 Merge pull request #116 from SheilaAbby/GSE-1157
+cbb51c7 GSE-1158 Restricts Supervisor Workflows to Kira
+9635aa1 Merge pull request #118 from PatriciaChebet/GSE-1156
+cb1f2f5 Merge pull request #121 from kennethatria/GSE-1202
+b44e2c5 GSE-1202: Removal of extra png file
+a5008db Merge pull request #103 from EkaiJack/GSE-1000
+d735552 Merge pull request #111 from kennethatria/GSE-995
+9bee502 Merge pull request #102 from EkaiJack/GSE-997
+690141f Merge pull request #98 from kennethatria/GSE-1001
+372ee86 Merge pull request #101 from kennethatria/GSE-992
+872fac7 Merge pull request #115 from EkaiJack/GSE-1006
+59f6f62 Merge pull request #109 from livinggoods/GSE-999
+04d9a3f GSE-1006:Enabling low touch protocol/Renaming existing chp visit file
+c24342e GSE-1156 Restricts Tasks to Kira and removes stock refill
+34e8c94 GSE-1157: Restricts Targets to Kira Branch
+3464d85 GSE-999 Enabling low touch protocol in Uganda - FP follow up Short term form
+dc6b337 GSE-1100 Update to covid follow up form
+1e036f1 GSE-997:Enables low-touch protocol(fp-follow up Prospective form)
+2606f5d Merge pull request #113 from EkaiJack/GSE-994
+ce810d9 Merge pull request #114 from EkaiJack/GSE-1003
+121d6c0 Merge pull request #108 from livinggoods/GSE-993
+a0abf5b Merge pull request #104 from livinggoods/GSE-996
+ee6bda8 Merge pull request #95 from livinggoods/GSE-1002
+cac6308 Merge pull request #105 from livinggoods/GSE-1046
+58c5a4b Merge pull request #110 from livinggoods/GSE-1005
+f7283fa GSE-1003:Enables low-touch protocol(assessment follow up form)
+74524ec GSE-996 Enabling low touch protocol in Uganda - Immunization_UG form
+50d5127 GSE-994:Enables low-touch protocol(delivery_note form)
+7851810 GSE-1000:Enables low-touch protocol(postnatal_care form)
+1ec1c4e Merge pull request #99 from kennethatria/GSE-998
+58d46f9 Merge pull request #97 from kennethatria/GSE-1004
+4aeecbe GSE-995: immunization follow up
+953f5cb GSE-1001: delivery check
+cd6d674 GSE-1046 Phone registration campaign for households in the home visit form
+0bbd068 GSE-992: assessment follow up
+8800460 GSE-993 Enabling low touch protocol in Uganda - MUAC follow up form
+0556b00 GSE-998:family planning follow up refill
+fe50874 GSE-1004:  Pregnancy registration
+2ad5fd3 GSE-1005 Enabling low touch protocol in Uganda - Nutrition Assessment Form
+039886f GSE-1002 Enabling low touch protocol in Uganda - Pregnancy Visit form
+897a1c0 Merge pull request #94 from livinggoods/GSE-968
+e89bd9b GSE-968 Capturing ANC visits during Newborn Visits
+e4e9137 Merge pull request #90 from kennethatria/GSE-952
+448507b GSE-952: children profiles creation bug
+b235710 Merge pull request #73 from kennethatria/GSE-790
+ab8c5db GSE-790:Family planning Self injection Pilot
+a5cc166 Merge pull request #92 from kennethatria/GSE-922
+665a5ff GSE-922: Supervisor app COVID follow up bug
+0ec011b Merge pull request #86 from kennethatria/GSE-881
+1f16c58 GSE-881: Targets not updating for newborn visit/PNC
+7f4ede3 Merge pull request #89 from kennethatria/GSE-852
+9c22de3 GSE-852: Follow up on date of refill
+1b3d992 Merge pull request #85 from Jeanfaith234/GSE-851
+98c50d6 Merge pull request #88 from kennethatria/GSE-853
+0ea954e GSE-853: New FP visit self injection
+6a93069 GSE-851 FP follow up For Prospective
+acc3047 Merge pull request #82 from kennethatria/GSE-580
+02eadbb GSE-580: PPE validation message
+debb2e7 Merge pull request #81 from Jeanfaith234/GSE-801
+c28dca7 GSE-801 Enabling pregnancy registration in the Uganda V3 to comply with no touch workflows.
+eff99a7 Merge pull request #74 from kennethatria/GSE-296
+93d484c Merge pull request #60 from PatriciaChebet/GSE-649
+8b9d782 GSE-649 Adds pharmacovigillance, Drug and PPE checks on CHP visit
+a614d19 GSE-296: Workflow validation of vaccines due
+0c9faad Merge pull request #72 from kennethatria/GSE-819
+3ff975e Merge pull request #68 from Jeanfaith234/GSE-744
+12376c0 GSE-819: error on compile settings
+a5175fb Merge pull request #71 from SheilaAbby/GSE-821
+cba8c00 GSE-821: Fixes SUP APP Contact Cards
+9cf48b1 Merge pull request #67 from Jeanfaith234/GSE-686
+40bb0cb Merge pull request #70 from SheilaAbby/GSE-812
+9d6bbe4 GSE-812: Fixes Invalid Date msg on Last Synced
+228b2e0 GSE-744: Add gender of newborn to PNC visit form
+8a0d6ee Merge pull request #69 from enyachoke/GSE-811
+f18ee12 GSE-811:Fix github actions deploy Export
+8db5f6d GSE-686 Update to family planning workflows
+8f2ae0f Merge pull request #65 from PatriciaChebet/GSE-756
+2236542 Merge pull request #64 from enyachoke/GSE-766
+a22eb8a GSE-766:Switch CI to github actions
+cba898b GSE-756 Updates the value used to compute missed pnc
+90e8ce2 Merge pull request #61 from PatriciaChebet/GSE-749
+fbfc67c GSE-749 Remane contact card from CHW to CHP perfomance
+b9b1e78 Merge pull request #59 from SheilaAbby/GSE-738
+3607fd4 Merge pull request #58 from SheilaAbby/GSE-734
+309e5f4 GSE-734: Resolves Error on Submitting Report
+db4c5fa Merge pull request #50 from SheilaAbby/GSE-628
+46c236a GSE-628: Updates the former missed pnc task
+d825537 Merge pull request #52 from kennethatria/GSE-689
+787e40c GSE-689 chp visit covid follow up task
+fc024e1 GSE-738: Updates the past edd reminder workflows
+10a384b Merge pull request #49 from SheilaAbby/GSE-9
+9af9ba4 GSE-9: Removes %chps visited target
+f5f53cb Merge pull request #42 from kennethatria/GSE-263
+f940687 GSE-263: Aligning Newborn and forms in V2 , V3
+d77b419 Merge pull request #43 from SheilaAbby/GSE-625
+8ea8c9b Merge pull request #41 from PatriciaChebet/GSE-623
+e490b85 GSE-623 Triggers CHPs not visited 14days to last day of month
+a9e9b03 Merge pull request #44 from PatriciaChebet/GSE-620
+8cf788d GSE-625: Updates the Upcoming EDD Reminder workflow
+4217ecf GSE-620 Adds CHP mute and unmute
+7548082 Merge pull request #47 from PatriciaChebet/GSE-646
+65d533c GSE-646 Updates community events workflow
+1953636 Merge pull request #45 from SheilaAbby/GSE-624
+cfec9af GSE-624: Updates the UG waste management workflow
+87dda60 Merge pull request #35 from kennethatria/GSE-431
+a829107 GSE-431 Covid-19 UG workflows Updates
+2a92d81 Merge pull request #34 from kennethatria/GSE-379
+8eccfdb GSE-379 : New born task Action should be available for 8 weeks after EDD
+e7ed2b7 Merge pull request #28 from kennethatria/GSE-300
+4841ceb Merge pull request #33 from PatriciaChebet/GSE-308
+b975977 GSE-308 Updates CHP visit workflow to include Immunization
+80bca3d GSE 300 changing measles1 to mealses rebula
+b022e9d Merge pull request #29 from SheilaAbby/GSE-321
+ae1b495 GSE-321: Updates the Newborn Target to 75%
+72bd636 Merge pull request #27 from SheilaAbby/GSE-266
+3f86ecb GSE-266: Updates the Newborn Visit Task to appear 48 hrs after Delivery
+5a36ce5 Merge pull request #26 from kennethatria/GSE-221
+d6dadb9 Merge pull request #25 from Kymoraa/SUP-37
+1d01370 GSE-88: Updates the community events form for supervisors in Uganda
+000d19c GSE-221
+5c2645b Merge pull request #23 from enyachoke/GSE-193
+2eb4efb GSE-193:Add CI/CD pipelines to Uganda Config :tada:
+309ff1e Merge pull request #15 from PatriciaChebet/SUP-28
+5d3c176 Merge branch 'master' into SUP-28
+cd08764 SUP-28 Added Missed PNC Follow-up Task Configurations
+972af16 Merge pull request #16 from livinggoods/revert-10-Sha-11
+3ab74c8 Revert "Sha-11 immunization defaulter tracking implementation"
+07f9954 Merge pull request #5 from tutu-ug/master
+0ba75ac Merge pull request #13 from PatriciaChebet/SUP-40
+db936e3 Merge pull request #14 from SheilaAbby/SUP-45
+88cc34d Merge pull request #2 from SheilaAbby/SUP-30
+2c6e171 Merge pull request #8 from kennethatria/SHA-12-Immunization-UG-Follow-Up
+37b3090 Merge pull request #10 from kennethatria/Sha-11
+de225cb SUP-45: Fix typo and qstn appearance
+efefeeb SUP-30:Adds Delivery-Check-Follow-up task
+7381198 Improved code and included missing values on CHW Performance Contact Cards
+9288df0 Merge pull request #6 from SheilaAbby/SUP-39
+03e7ab3 Merge pull request #4 from PatriciaChebet/SUP-34
+6dc097c Updated the stock_check workflow to include check for ORS level
+83350c8 Sha-11 immunization defaulter tracking implementation
+1f64028 SUP-39: Adds waste management form-UG
+9558b67 updated immunization uganda follow up reference: SHA-12
+cb845f2 Create get_dashboard_data_nifi.sql
+67c630f Updated treatments under 5 and positive diagnosis under 5 to reflect inclusion of under 1
+39eaa30 Merged and Updated the CHW Perfomance Contact card to include under 5 on time referrals and % of households visited
+0f3841c Updated CHW Perfomance contact cards to include under 5 on time referrals and % of household visits
+a897a33 Merge branch 'lg_uganda_production' into SVU-4-Fix-Supervisor-Contact-Cards
+17d616a Merge pull request #271 from livinggoods/SUP-32-CHWs-not-visited
+40d932d Updated the tasts start days to 7
+65ab44e Filtered out tasks to only show tasks of CHVs supervised by currently logged in supervisor
+ade2edf Changes the question from 'side-effects' to 'adverse effects'
+a9ee2cb Merge pull request #269 from livinggoods/SHA-21-missing-community-event-form
+6532bc4 Added configurations for CHVs not visited task
+a3edb92 fixed expressions for missing forms
+208dead label typo fix
+e58d72a Update contact-summary.js
+00caf1a bug fix: parent field changed from string to calculate field
+dcd4117 Merge pull request #267 from livinggoods/SHA-20-pregnancy-visit-edd-update
+eb18eb5 bug fixes for pregnancy visit update on edd question
+5dde5db removed edd questions and updated calculation fields depending on this question
+b8bc1d9 removed updated question on updating EDD
+c62c6fa Adds perfomance contact card design
+ae56367 Merge pull request #264 from livinggoods/SIU-9-New-Born-Visit-update
+1fa6623 corrected the immunization follow up duration
+7b6c0b0 updated new born visit task duration from 8 days to 60 days
+8c6690b Merge pull request #263 from livinggoods/SIU-8-pregnancy-visit-update
+f03b48e Removed unwanted EDD Question
+fb8b80f Merge pull request #262 from livinggoods/SIU-7-target-U5-child-assessment
+a677a00 U5 child assessment updated to 1 to 5
+e0978be Expand abbreviations on contact cards
+bd2cf44 Fixed Supervisor Contact Cards not to appear on CHV Profiles
+41c0e56 fixed merge conflict
+d30c527 Merged last sync date with positive diagnosis and treatment changes
+9f2ff16 Updated treatments and positive diagnosis to include both u5 and u1 as under 5 is not inclusive of under 1
+4ae3cb4 Added Last Synced date card
+54c6c6f Added contact cards on Uganda instance
+a0f534f Merge pull request #207 from livinggoods/T1090-Missing-Month-Label
+a900300 Added missing  months label when current age option is selected
+9ab1d37 changed chv to chp
+6538818 correction: removed semi colon
+640b6d7 added months field to dob unknown
+cb6ab79 target naming correction
+c2a04a1 Unique household visit update
+3b60c1e translation resolve: new place to new family
+1098398 family members translation fix
+f1bb2b2 supervisors targets tab should be empty
+65cd7d4 updated fp, u1 and u5 targets
+e1ace2f Adds role settings to app_settings.json for Branch manager
+8913a20 Merge pull request #186 from livinggoods/T1022-uhc-mode-chw
+6736327 Adds uhc mode for CHWs
+a54cafc Adds back translations
+fb97b58 Adds multi_report_alerts transition config fix
+09b059a Fixed previously merged bug in app_settings
+54c7d11 Remove conflicts from app_settings.json
+d7758e0 Fixed merge conflicts
+989101a Merge pull request #171 from livinggoods/T998-New-categories-to-the-IT-support-form
+b8b790e Update muting & DR
+e4c9143 Merge branch 'lg_uganda_production' of github.com:livinggoods/config-lg into T1056
+cab2161 Merge pull request #177 from livinggoods/T1022-uhc-mode-supervisor
+1b6a02a Merge pull request #179 from livinggoods/T1062-LGUG-App-Settings
+ae693fc can create places permission
+20a94eb Can add people and edit people permissions for district_admin user
+711a478 Updating translations
+789d2f3 Adding death report, removed muting request form
+2e0f9e9 Conflicts fix
+eb470f3 Purging provisional changes
+a4ffb9c Provisional purging config T553
+c3dacb1 app settings
+15ce0b0 merging remote app settings
+430ee3b Adds last visited date for the supervisors with regards to CHP visits.
+d565aea T1062-LgUganda-App-Settings-Changes
+afcef74 T1062-LgUganda-App-Settings-Changes
+1d62dcf changes on app settings to includes roles and permissions
+466361c Updating the rules.nools for UG to exclude muted households.
+9be62e4 T998-Added new categories to the IT support form in the supervisor app
+c792428 LG uganda version 3 config rollout
+a6c40fc change mrdt question flow #6228 (#77)
+9c97707 Merge pull request #62 from KenitoInc/fp-useviews
+0db4f15 Fix Test directory
+d24fa4d Fix Failing tasks
+ef9bbda LG-UG Merge current work
+1eb440d Fix Test directory
+1eb39cd Fix Failing tasks
+408faf5 LG-UG Merge current work
+04d2a09 Updated tests
+e4683ff Merge branch 'master' into gavi-ug
+8bc1674 added end group on lines 9 and 10
+e041783 removed unnecessary  spaces
+55472cd added a filter to createImmuniztion method for only children under 3
+c148ea7 added filter to vertify only child under 3 starts  createImmunization task...
+10de6e4 used placeholder instead of id  for in expression in workflow properties.json
+3b44cad update app_settings
+c5ca845 Delete .travis file from lg-uganda
+22e0996 Delete unnecessary spacing
+46330ce Update app_settings.json
+d665a40 Stict equality checking
+bbbe8bf Get rid of es6 syntax
+a8166ec Add app-settings check for lg-uganda
+2889930 Get LG UG testing to green
+87051b4 renamed groups, added fieldlist to information on defaulters reasons, updated defaulters reasons condition
+8d24e3b updated immunization.spec.js with updated tests
+b8abf78  added 6th immunization task
+ee196e3 updated uganda immunization xml after convert
+5c3c6ea updated pcv2 note to display pcv2 if not selected
+f83f533 updated uganda immunization workflow - which will run in branches Massaja and Magale
+95590af updated uganda follow up properties
+61982bf Updated tests
+3d4aa9f code clean up
+52cb203 initial commit for immunization workflows
+f8eb12b Initial config copy
